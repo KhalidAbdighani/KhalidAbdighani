@@ -1,4 +1,4 @@
-# Hi, I'm Khalid 👋
+#  I'm Khalid 
 
 **Software Engineering student @ Istanbul Sabahattin Zaim University (3rd year)**
 I build full-stack web apps with a focus on authentication, clean MVC architecture, REST APIs, and media-processing workflows.
